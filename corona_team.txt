@@ -5,7 +5,11 @@ Covid 19 global pandemic:
 
 TLDR:
 
-    As a global community, let's work together on COVID-19
+    As a global community, let's work together on COVID-19. 
+
+    Utilize the global population's combined knowledge, experience during the pandemic to 
+    assist one another and communicate civily in the 2020 novel coronavirus pandemic (SARS-CoV-2/Covid19)
+
 
 PROJECT GOALS:
 
@@ -47,18 +51,8 @@ PROJECT GOALS:
             #(those who are desperate may at their own risk *** wish to try something unproven e.g. high-dose vitamin C)
 
 
-Personal message:
 
-A new type of virus is presently frightening the world. 
-People are confused, scared and hoarding: Others are annoyed, frustrated, and angry.
+# PHILOSOPHY:
 
-What we do know is that some supplies are running out worldwide, and that stores are emptying.
-Some have hoarded thousands of life-saving masks for first responders who are having to break guidelines
-and re-use them due to shortages. Masks are nowhere to be found -- or at least 10x as expensive.
-
-We are all dealing with a new situation and we are doing so in different ways. 
-
-
-A global pandemic is in presently worsening. By contributing our experiences, stories, research, and work efforts
-as a global community, we can together overcome difficult problems together. 
-
+All materials are reproduceable in any way, free of charge and without obligation, but referencing the source is appreciated. 
+All contributions will be referenced within reason
